@@ -116,3 +116,5 @@ Creating a GUI-based chatbot or deploying it on a web app
 ---
 
 Let me know if you want this in PDF format or need a project report template too!
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/b8cd1085-bf41-4012-bd43-2e9603b5429a)
